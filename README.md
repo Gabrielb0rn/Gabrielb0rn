@@ -7,8 +7,8 @@
 - 💻 I’m passionate about programming
 - 🎯 I'm looking to collaborate with companies related to my interests
 - ✉️ How to contact me: 
-  - [Email 1](mailto:gabriel_born@estudante.sesisenai.org.br)
-  - [Email 2](mailto:gabrielborn1111@gmail.com)
+  - [Email escolar](mailto:gabriel_born@estudante.sesisenai.org.br)
+  - [Email pessoal](mailto:gabrielborn1111@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have another account that has some codes but it is private.
 
@@ -29,8 +29,28 @@
     <a href="https://github.com/Gabrielb0rn">
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielb0rn&layout=compact&langs_count=8&theme=tokyonight"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" alt="Gabriel's GitHub Streak" />
     </a>
 </div>
+
+---
+
+### 🚀 Projetos em Destaque: Em andamento.
+
+- [**Projeto Teste**](https://github.com/users/Gabrielb0rn/projects/1)
+
+---
+
+### 🎓 Certificações e Cursos:
+
+- Curso: Programação em Linguagem Python - 40h.
+- [Certificado](https://5d1d8e34-bea7-4d4a-97f1-62b5fa0161f5.filesusr.com/ugd/c7505a_f346cbbc84d648fa911989c39de5f63e.pdf)
+
+---
+
+### 🌐 Outros Links:
+
+- [Portfólio](https://gabrielborn5.wixsite.com/the-portf-lio---gabr)
 
 ---
 
