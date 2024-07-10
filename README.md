@@ -27,10 +27,12 @@
 
 <div align="center">
     <a href="https://github.com/Gabrielb0rn">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" alt="Gabriel's GitHub Streak" />
+       <br>
         <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielb0rn&layout=compact&langs_count=8&theme=tokyonight"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" alt="Gabriel's GitHub Streak" />
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabrielb0rn&theme=onedark" /></a> 
 </div>
 
 ---
