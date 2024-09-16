@@ -39,7 +39,7 @@
 
 ### 🚀 Projetos em Destaque: Em andamento.
 
-- [**Projeto Teste**](https://github.com/users/Gabrielb0rn/projects/1)
+- [**Equipe SA**](https://github.com/Gabrielb0rn/EasyDesk.io)
 
 ---
 
