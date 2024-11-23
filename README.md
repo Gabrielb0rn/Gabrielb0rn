@@ -62,6 +62,11 @@
 
 ---
 
+<div align="center">
+<br><p align="centre"><b>👀</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabrielb0rn}/count.svg" /></p> 
+<br></div>
+
 <!--
 hi :)
 -->
