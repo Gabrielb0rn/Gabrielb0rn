@@ -3,7 +3,7 @@
 ---
 
 ### 👀 About Me:
-- 🏫 I'm in my second year of high school
+- 🏫 I am in my third year of high school and the technical course in ADS
 - 💻 I’m passionate about programming
 - 🎯 I'm looking to collaborate with companies related to my interests
 - ✉️ How to contact me: 
