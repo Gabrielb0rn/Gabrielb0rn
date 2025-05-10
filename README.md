@@ -124,8 +124,12 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabrielb0rn.Gabrielb0rn" />
 </p>
 
----
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+# Extra
 Aqui compartilho meu respeito e apreço pelas Forças Armadas do Brasil.  
 Nesta seção, você encontrará frases de instrutores, canções militares, ideais de conduta e reflexões sobre liderança, honra e disciplina — virtudes que levo comigo em tudo que faço.
 
