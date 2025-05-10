@@ -60,10 +60,13 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielb0rn&layout=compact&theme=tokyonight&hide=css,html" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
+
+
+  
 
 
 
