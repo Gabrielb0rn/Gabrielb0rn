@@ -73,9 +73,9 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 |----------------|-----------------------------------------------------|------------------------------------------------------------|
 | **EasyDesk.io** | Projeto SA  ADS, uma empresa de gestão  | [🔗 Ver no GitHub](https://github.com/Gabrielb0rn/EasyDesk.io) |
 | **EcoSmart.io** | Projeto SA IOT + ADS, empresa de gestão de energia, usando arduinos, aplicativo integrado e um site. | [🔗 Em desenvolvimento](https://github.com/Gabrielb0rn/) |
-| **SA** = Situação de Aprendizado |
-| **IOT** = Internet das Coisas (Arduinos) |
-| **ADS** = Analise em Desenvolvimento de Sistemas (Curso do SENAI) |
+| **SA** = Situação de Aprendizado | **IOT** = Internet das Coisas (Arduinos) | **ADS** = Analise em Desenvolvimento de Sistemas (Curso do SENAI) |
+
+
 
 ---
 
