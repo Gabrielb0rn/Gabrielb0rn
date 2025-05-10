@@ -57,13 +57,38 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielb0rn&layout=compact&theme=tokyonight&hide=css,html" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&count_private=true" />
+
+  <h3>🔤 Linguagens Mais Usadas</h3>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielb0rn&layout=compact&theme=tokyonight&hide=css,html" 
+    alt="Linguagens mais usadas" 
+  />
+  
+  <h3>🔥 Contribuições em Sequência</h3>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielb0rn&theme=tokyonight" 
+    alt="GitHub Streak Stats" 
+  />
+  
+  <h3>📈 Estatísticas Gerais</h3>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&count_private=true" 
+    alt="Estatísticas do GitHub" 
+  />
+
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabrielb0rn_wakatime&theme=tokyonight)](https://wakatime.com/)
+
+
+![snake gif](https://github.com/Gabrielb0rn/Gabrielb0rn/blob/output/github-contribution-grid-snake.svg)
+
+
+
 </div>
+
 
 
   
@@ -107,6 +132,8 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 - 🌐 [Portfólio](https://gabrielborn.vercel.app/)
 
 ---
+
+
 
 ## 😄 Curiosidades
 
