@@ -1,4 +1,4 @@
-# Gabriel Born 👨‍💻
+<h1 align="center"> Gabriel Born 👨‍💻 </h1>
 <p align="center">
   Fullstack Developer · Cybersecurity Enthusiast · Visual Thinker <br/>
   <i>“Desenvolvendo com propósito, segurança e inovação.”</i>
