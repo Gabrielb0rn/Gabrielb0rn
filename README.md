@@ -126,19 +126,22 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
-# Extra
+<h1 align="center"> Extra </h1>
+
 Aqui compartilho meu respeito e apreço pelas Forças Armadas do Brasil.  
 Nesta seção, você encontrará frases de instrutores, canções militares, ideais de conduta e reflexões sobre liderança, honra e disciplina — virtudes que levo comigo em tudo que faço.
+
+---
 
 ## ⚔️ Espírito de Combate
 
 > “Alguns dizem que já se nasce Comandos — que é preciso apenas ir lá e buscar o que é seu por direito.  
 > Outros dizem que ser Comandos é uma escolha: a decisão consciente de continuar, mesmo quando tudo diz para parar.  
 >  
-> Mas há algo que todos concordam:  
+> Mas há algo em que todos concordam:  
 > Quem for digno conquista esse nome para sempre.  
 >  
 > Cansaço físico e mental, pressão psicológica, cobrança constante por resultados —  
@@ -150,79 +153,80 @@ Nesta seção, você encontrará frases de instrutores, canções militares, ide
 >  
 > Em troca, me deram outro nome... e um número.”
 
+---
 
-
-# 🛡️ Frases dos Comandos / Forças Especiais
+## 🛡️ Frases dos Comandos / Forças Especiais
 
 - **"Apenas o trauma coletivo gera união."**
 - **"Qualquer missão, qualquer hora, qualquer lugar, de qualquer maneira."**
 - **"A faca brilha e a caveira sorri."**  
-  > A risada dos comandos, onde mesmo diante da morte se mantêm sorridentes. Desafiar a morte mostra que você não vai partir agora.
-- **"A gente não quer saber no que você é bom, a gente quer saber no que você é mal. É ali que eu vou ficar todo dia, durante 6 meses, até você ir embora."**
-- **"Quando você vê um Comandos, você imagina um elemento que vai aguentar de tudo. O símbolo com o punhal na caveira significa vencer a morte, você matou a caveira."**
-- **"Os Comandos não morrem, eles desaparecem, para reagrupar no inferno, onde atormentam o demônio."**
-- **"Senhores, eu vou mastigar o cérebro dos senhores. Somente o trauma coletivo gera união. Não fui buscar ninguém em casa."**
-- **"A diferença entre o que eu sou, e no que eu quero me tornar, é o agora."**
-- **"Quem tem pena é galinha, os fracos que se arrebentem."**
+  > A risada dos Comandos: mesmo diante da morte, eles sorriem. Desafiá-la é dizer que não é hoje que vão partir.
+- **"A gente não quer saber no que você é bom. A gente quer saber no que você é ruim. É ali que eu vou ficar, todo dia, durante seis meses, até você ir embora."**
+- **"Quando você vê um Comandos, vê alguém que vai aguentar tudo. O símbolo do punhal na caveira significa vencer a morte. Você matou a caveira."**
+- **"Os Comandos não morrem — desaparecem, para reagrupar no inferno e atormentar o demônio."**
+- **"Senhores, eu vou mastigar o cérebro dos senhores. Não fui buscar ninguém em casa."**
+- **"A diferença entre o que eu sou e no que eu quero me tornar é o agora."**
+- **"Quem tem pena é galinha. Os fracos que se arrebentem."**
 - **"A sorte acompanha os audazes."**
 - **"Esgotan-se os meios da rendição pacífica: que venham os Comandos!"**
-- **"Numa noite escura, dentro da água, perdi o nome que meus pais me deram. Em troca, me deram outro nome e um número. Eu me chamo: COMANDOS."**
+- **"Numa noite escura, dentro da água, perdi o nome que meus pais me deram. Em troca, me deram outro nome... e um número. Eu me chamo: COMANDOS."**
 
 ---
 
-# 🎵 Trechos da Canção dos Comandos
+## 🎵 Trechos da Canção dos Comandos
 
 - **"Surpresa e sorte natural, acompanham a caveira e o punhal."**
-- **"O rosto dos comandos ninguém vê, suas garras quem sentir não viverá."**
+- **"O rosto dos Comandos ninguém vê. Suas garras, quem sentir, não viverá."**
 
 ---
 
-# 💬 Diálogo Inspirador dos Instrutores
+## 💬 Diálogo Inspirador dos Instrutores
 
-> **"Sabe como os comandos se cumprimentam?"**  
-> Alguns instrutores apareciam durante a noite escura com uma voz acolhedora ao aluno exausto:
+> **"Sabe como os Comandos se cumprimentam?"**  
+> Alguns instrutores apareciam na noite escura, com uma voz acolhedora ao aluno exausto:
 
 - “Aluno, tá vibrando?” — **"COMANDOS!"**  
 - “Aluno, tá cansado?” — **"COMANDOS!"**  
 - “Aluno, quer ir embora?” — **"COMANDOS!"**
 
-> Alguns alunos não percebiam que era um teste.  
+> Alguns alunos não percebiam: era um teste.  
 > Ao abrir o coração, mostravam o elo fraco da corrente.  
-> Responder "Comandos" não significava fingir que está tudo bem,  
-> mas sim demonstrar força de vontade, determinação e compromisso.
+> Responder "Comandos" não era fingir que estava tudo bem,  
+> mas mostrar força de vontade, disciplina e compromisso.
 
-> Ser vulnerável não significa compartilhar tudo com qualquer pessoa,  
-> mas com quem conquistou o direito de conhecer sua fraqueza.  
+> Ser vulnerável não é contar tudo a qualquer um —  
+> é saber com quem você pode ser humano.  
 > **Se quiser nadar entre tubarões, não sangre perto deles.**
 
 ---
 
-# 🐺 Sobre o PARA-SAR / PARA-COMANDOS
+## 🐺 Sobre o PARA-SAR / PARA-COMANDOS
 
-> **"Formação básica de um PARA-SAR: cerca de 7 cursos operacionais."**  
-> O PARA-COMANDOS é colocado no nível mais alto.  
-> Por que o **pastor**?  
-> Porque foi o símbolo adotado pelo PARA-SAR.  
-> Nos espelhamos na imagem do cão pastor-alemão:  
-> **adestrado, corajoso, leal, vigilante e, se preciso, agressivo.**
+> **"A formação básica de um PARA-SAR exige cerca de sete cursos operacionais."**  
+> O PARA-COMANDOS está no topo da hierarquia operacional.
+
+Por que o **pastor**?  
+Porque o PARA-SAR adotou o pastor-alemão como símbolo.  
+Espelhado nele:  
+**adestrado, corajoso, leal, vigilante e, se preciso, agressivo.**
 
 ---
 
-# ✝️ Frases Espirituais e Bíblicas
+## ✝️ Frases Espirituais e Bíblicas
 
-- **"Adsumus."** (Frase do CFN – Corpo de Fuzileiros Navais: “Estamos presentes.”)
+- **"Adsumus."** — (Frase do CFN – Corpo de Fuzileiros Navais: “Estamos presentes.”)
 - **"Posso todas as coisas naquele que me fortalece."**
-- **"(Batalhão de Infantaria Paraquedista)**  
-  _Mas os que esperam no Senhor renovarão suas forças,_  
-  _subirão com asas como águias,_  
-  _correrão e não se cansarão,_  
-  _caminharão e não se fatigarão._"
+- **"(Batalhão de Infantaria Paraquedista)"**  
+  _"Mas os que esperam no Senhor renovarão suas forças;  
+  subirão com asas como águias,  
+  correrão e não se cansarão,  
+  caminharão e não se fatigarão."_ — Isaías 40:31
 
 ---
 
-# 🗡️ Reflexão Filosófica / Operacional
+## 🗡️ Reflexão Filosófica / Operacional
 
-> **"O Forças Especiais é uma luva segurando uma faca.**  
-> **A luva não é sua mão. É a luva.**  
-> **Como se você tivesse a capacidade de empunhar o punhal e fazer,**  
-> **sem que seja você mesmo."**
+> **"O Forças Especiais é como uma luva segurando uma faca.  
+> A luva não é sua mão. É a luva.  
+> Como se você tivesse a capacidade de empunhar o punhal e agir,  
+> sem que fosse você mesmo."**
