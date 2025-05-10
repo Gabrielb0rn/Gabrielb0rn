@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Developer | Cybersecurity Enthusiast | Visual Thinker 🚀</h3>
 <p align="center"><i>"Desenvolvendo com propósito, segurança e inovação."</i></p>
 
-<img src="https://your-image-link.com/banner.png" alt="Banner Gabriel Born" width="100%" />
+<img src="src/image.png" alt="Banner Gabriel Born" width="100%" />
 
 ---
 
