@@ -1,8 +1,8 @@
 <h1 align="center"> Gabriel Born 👨‍💻 </h1>
-<p align="center">
-  Fullstack Developer · Cybersecurity Enthusiast · Visual Thinker <br/>
-  <i>“Desenvolvendo com propósito, segurança e inovação.”</i>
-</p>
+<h3 align="center">🚀 Fullstack Developer | Cybersecurity Enthusiast | Visual Thinker 🚀</h3>
+<p align="center"><i>"Desenvolvendo com propósito, segurança e inovação."</i></p>
+
+<img src="https://your-image-link.com/banner.png" alt="Banner Gabriel Born" width="100%" />
 
 ---
 
@@ -79,12 +79,15 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
     alt="Estatísticas do GitHub" 
   />
 
+  <h3>📊 Estatísticas do WakaTime</h3>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielB0rn&theme=tokyonight)](https://wakatime.com/@GabrielB0rn)
 
-## 📊 Estatísticas do WakaTime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 
