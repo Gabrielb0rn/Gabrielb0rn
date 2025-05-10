@@ -65,13 +65,7 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielb0rn&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
 
----
 
-## 🌱 Contribuições Recentes
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabrielb0rn&theme=tokyo-night)
-
----
 
 ## 🚀 Projetos em Destaque
 
