@@ -82,9 +82,12 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielB0rn&theme=tokyonight)](https://wakatime.com/@GabrielB0rn)
 
+## 📊 Estatísticas do WakaTime
+START_SECTION:waka
+END_SECTION:waka
+
 
 ![snake gif](https://github.com/Gabrielb0rn/Gabrielb0rn/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
