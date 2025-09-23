@@ -165,12 +165,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🚀 Projetos em Destaque
 
-| Projeto        | Descrição                                           | Link                                                       |
-|----------------|-----------------------------------------------------|------------------------------------------------------------|
-| **EasyDesk.io** | Projeto SA  ADS, uma empresa de gestão  | [🔗 Ver no GitHub](https://github.com/Gabrielb0rn/EasyDesk.io) |
-| **EcoSmart.io** | Projeto SA IOT + ADS, empresa de gestão de energia, usando arduinos, aplicativo integrado e um site. | [🔗 Em desenvolvimento](https://github.com/Gabrielb0rn/) |
-| **SA** = Situação de Aprendizado | **IOT** = Internet das Coisas (Arduinos) | **ADS** = Analise em Desenvolvimento de Sistemas (Curso do SENAI) |
+| Projeto         | Descrição                                                                                       | Link                                                       |
+|-----------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **EasyDesk.io** | Sistema de gestão de empresa desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas (ADS). | [🔗 Ver no GitHub](https://github.com/Gabrielb0rn/EasyDesk.io) |
+| **EcoSmart.io** | Sistema de gestão de energia integrando IoT (Arduinos), aplicativo e site. Projeto em desenvolvimento. | [🔗 Em desenvolvimento](https://github.com/Gabrielb0rn/) |
+| **Veritas**     | Sistema para escritório de advocacia, com front-end + back-end usando React, Next.js, ORM e PostgreSQL. Projeto mais completo do curso ADS. | [🔗 Ver site](https://veritas3.vercel.app/) |
+| **Portfólio 1T 2025** | Portfólio desenvolvido no primeiro trimestre de 2025, exibindo trabalhos, atividades e projetos acadêmicos em site interativo. | [🔗 Ver site](https://v0-site-o3.vercel.app/) |
 
+### Legenda
+- **SA** = Situação de Aprendizado  
+- **IoT** = Internet das Coisas (Arduinos)  
+- **ADS** = Análise e Desenvolvimento de Sistemas (Curso do SENAI)  
 
 
 ---
