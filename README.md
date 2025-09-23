@@ -15,33 +15,85 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
 
 ## 🛠️ Tech Stack
 
-### Linguagens de Programação
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![.BAT](https://img.shields.io/badge/-.BAT-008000?style=for-the-badge&logo=windows)
+![Batch](https://img.shields.io/badge/-Batch-008000?style=for-the-badge&logo=windows&logoColor=white)
 
-### Frameworks e Bibliotecas
+---
+
+### ⚛️ Frameworks e Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 
-### Bancos de Dados
+---
+
+### 🗄️ Bancos de Dados & Backend
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Ferramentas
+**Backend / APIs**  
+- Node.js / Express  
+- REST & GraphQL  
+- Serverless Functions (Vercel / Supabase)  
+- Autenticação JWT / OAuth / NextAuth  
+
+---
+
+### 🛠️ Ferramentas & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### IDEs e Ambientes
+- Docker básico  
+- CI/CD com GitHub Actions  
+- Monitoramento: LogRocket / Sentry  
+- Bundlers: Webpack / Vite  
+
+---
+
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+- Prototipagem avançada (Figma / Design System)  
+- Animações e transições complexas  
+- Design responsivo e acessível (WCAG)  
+- Dark / Light mode  
+
+---
+
+### 🖥️ IDEs & Ambientes
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio 2019](https://img.shields.io/badge/-VS2019-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea)
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&logo=kalilinux)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+### 🧪 Testes & Qualidade
+- Unit Tests (Jest / React Testing Library)  
+- E2E Tests (Cypress)  
+- Testes de UI e componentes React  
+- Boas práticas de código e documentação  
+
+---
+
+### 🌐 Outros Conhecimentos
+- Integração com Google APIs (Sheets, Drive, Calendar)  
+- Metodologias ágeis: Scrum / Kanban  
+- Projetos Open Source / Portfólio online  
+- Manutenção de sistemas robustos, modularização e documentação
 
 ---
 
