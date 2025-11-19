@@ -131,15 +131,15 @@ Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Té
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 20 mins
 
-TypeScript   44 mins         ██████████████▓░░░░░░░░░░   58.71 %
-Bash         17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Prisma       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+TypeScript   44 mins         █████████████▓░░░░░░░░░░░   55.31 %
+Bash         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Prisma       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
