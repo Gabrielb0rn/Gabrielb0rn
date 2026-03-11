@@ -1,4 +1,4 @@
-<img src="src/image2.png" alt="Banner Gabriel Born" width="1536px" />
+<img src="src/image2.png" alt="Banner Gabriel Born" width="100%" />
 
 ---
 
