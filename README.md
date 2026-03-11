@@ -105,7 +105,7 @@ Busco constantemente aprender novas tecnologias e construir soluções que combi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabrielb0rn&theme=tokyonight&no-frame=true&row=2&column=8&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabrielb0rn&theme=tokyonight&no-frame=true&row=2&column=8&margin-w=10&margin-h=10"/>
 </div>
 
 ---
