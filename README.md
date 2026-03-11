@@ -4,14 +4,19 @@
 
 ## 👋 Sobre Mim
 
-Sou Gabriel Born, estudante do 3º ano do Ensino Médio na Escola S (SESI) e Técnico em Análise e Desenvolvimento de Sistemas (ADS) no SENAI, em Florianópolis, SC. Apaixonado por tecnologia desde cedo, cresci em uma família que valoriza educação e inovação. Meu objetivo é criar soluções tecnológicas que impactem positivamente, combinando desenvolvimento fullstack, cibersegurança e design. Planejando graduação em ADS, Ciberdefesa, Bancos de Dados ou Redes de Computadores, busco resolver problemas e colaborar em projetos inovadores.
+Sou Gabriel Born, desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas (ADS) no UniSenai, em Florianópolis, SC.
 
-- 🧠 Interessado em desenvolvimento fullstack, cibersegurança, Linux, scripting e redes
-- 🎨 Crio interfaces intuitivas com Figma e Canva
-- 🤝 Habilidades interpessoais: trabalho em equipe, comunicação, liderança, resolução de problemas
-- 📍 Florianópolis, SC - Brasil
+Concluí o Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas pelo SESI/SENAI, onde desenvolvi diversos projetos envolvendo desenvolvimento web, banco de dados e arquitetura de sistemas.
 
----
+Tenho grande interesse em desenvolvimento **Full Stack**, **Inteligência Artificial aplicada**, **web interativa** e **arquitetura de aplicações modernas**. Atualmente desenvolvo projetos utilizando tecnologias como Next.js, TypeScript, Supabase e Prisma, além de experimentar integração de LLMs e sistemas baseados em RAG.
+
+Busco constantemente aprender novas tecnologias e construir soluções que combinem **boa engenharia de software, experiência do usuário e inovação tecnológica**.
+
+- 🧠 Interesses: Full Stack Development, Inteligência Artificial, Web Interativa, Arquitetura de Sistemas
+- ⚙️ Tecnologias favoritas: Next.js, TypeScript, PostgreSQL, Supabase
+- 🎨 Experiência com UI/UX e prototipagem usando Figma
+- 🤝 Habilidades interpessoais: trabalho em equipe, comunicação, liderança e resolução de problemas
+- 📍 Florianópolis, SC — Brasil
 
 ## 🛠️ Tech Stack
 
