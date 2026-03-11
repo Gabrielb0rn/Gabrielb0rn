@@ -185,7 +185,6 @@ No activity tracked
 ## 📜 Certificações
 
 - **Programação em Linguagem Python** – 40h  
-  [📄 Certificado](https://5d1d8e34-bea7-4d4a-97f1-62b5fa0161f5.filesusr.com/ugd/c7505a_f346cbbc84d648fa911989c39de5f63e.pdf)
 - **Educação Financeira** – 30h
 
 ---
