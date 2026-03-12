@@ -31,6 +31,7 @@ Busco constantemente aprender novas tecnologias e construir soluções que combi
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Batch](https://img.shields.io/badge/-Batch-008000?style=for-the-badge&logo=windows&logoColor=white)
 
+
 ---
 
 ### ⚛️ Frameworks e Bibliotecas
@@ -40,6 +41,8 @@ Busco constantemente aprender novas tecnologias e construir soluções que combi
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![AI](https://img.shields.io/badge/AI-Systems-purple)
 
 ---
 
