@@ -151,15 +151,13 @@ Busco constantemente aprender novas tecnologias e construir soluções que combi
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 47 mins
+Total Time: 9 mins
 
-Bash         19 mins         █████████▒░░░░░░░░░░░░░░░   37.93 %
-TypeScript   13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-Prisma       13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JavaScript   8 mins          ████████████████████████▒   96.89 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
