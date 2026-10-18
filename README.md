@@ -151,13 +151,13 @@ Busco constantemente aprender novas tecnologias e construir soluções que combi
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Total Time: 2 hrs 24 mins
+Total Time: 2 hrs 11 mins
 
-Python     1 hr 22 mins    █████████▒░░░░░░░░░░░░░░░   37.43 %
-Other      1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   34.30 %
-Markdown   1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.27 %
+Other      1 hr 15 mins    █████████░░░░░░░░░░░░░░░░   36.56 %
+Python     1 hr 8 mins     ████████▒░░░░░░░░░░░░░░░░   33.31 %
+Markdown   1 hr 2 mins     ███████▓░░░░░░░░░░░░░░░░░   30.13 %
 ```
 
 <!--END_SECTION:waka-->
