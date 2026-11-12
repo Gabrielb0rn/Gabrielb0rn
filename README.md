@@ -9,7 +9,7 @@ Trabalho principalmente com Next.js, TypeScript e Postgres. Hoje passo a maior p
 | Projeto | O que é | Stack |
 |:--|:--|:--|
 | **[Simulador RBMK](https://simulador-rbmk.vercel.app/)** | Simulador educacional do reator de Chernobyl: painel de controle, cenários de 1986, salão do reator em 3D e um conselheiro com IA. | Next.js, TypeScript, Web Workers, React Three Fiber |
-| **casa-3d [Manutenção]** | Visualização 3D de uma casa a partir da planta em DWG, com raio-x das paredes e camadas por pavimento. | Next.js, React Three Fiber, Python |
+| **[casa-3d [Apenas a versão 1]](https://casa3dv1.vercel.app/)** | Visualização 3D de uma casa a partir da planta em DWG, com raio-x das paredes e camadas por pavimento. | Next.js, React Three Fiber, Python |
 | **[Ordex](https://ordex-repo-v1.vercel.app)** | Site de um serviço de landing pages por assinatura, com painel administrativo e portal do cliente. | Next.js, Supabase, Prisma |
 | **[Veritas](https://veritas3.vercel.app)** | Sistema para escritório de advocacia, front e back. O projeto mais completo que fiz no curso. | Next.js, Prisma, PostgreSQL |
 | **[local-face-privacy](https://github.com/Gabrielb0rn/local-face-privacy)** | Detecta e censura rostos da webcam em tempo real, sem nada sair do PC. Funciona no OBS, Discord e Zoom. | Python, OpenCV |
